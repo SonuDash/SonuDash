@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **advanced Data Structure and Algorithms**
 
-- 💬 Ask me about **C++, Python, HTML, CSS**
+- 💬 Ask me about **DevOps, DSA, C++, Python, HTML, CSS**
 
 - 📫 How to reach me **ayushmand560@gmail.com**
 
