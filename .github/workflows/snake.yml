@@ -6,7 +6,7 @@ name: Generate Snake
 
 on:
   schedule:
-    # every 6 hours
+    # every 24 hours
     - cron: "0 */6 * * *"
 
   # This command allows us to run the Action automatically from the Actions tab.
@@ -30,10 +30,10 @@ jobs:
     steps:
 
       # Checks repo under $GITHUB_WORKSHOP, so your job can access it
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v3 #version changed to v3
 
       # Generates the snake
-      - uses: Platane/snk/svg-only@v3
+      - uses: Platane/snk@main #@main instead of /master
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
