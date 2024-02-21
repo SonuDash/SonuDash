@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **Linux Shell, AWS, DSA, C++**
+- 💬 Ask me about **Python, Kubernetes, AWS, DSA**
 
 - 📫 How to reach me **ayushmand560@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1k00qKd-ORpNmro99X2nUqcL_It7ajivcw1CLTXGM2_A/edit?usp=sharing](https://docs.google.com/document/d/1k00qKd-ORpNmro99X2nUqcL_It7ajivcw1CLTXGM2_A/edit?usp=sharing)
 
-- ⚡ Fun fact **I think I am just a wanderer**
+- ⚡ Fun fact **Time is relative (have u tried zoning into a task)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
