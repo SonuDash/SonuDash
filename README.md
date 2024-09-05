@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayushman</h1>
-<h3 align="center">A passionate DevOps enthusiast from India</h3>
+<h3 align="center">A passionate Tech enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonudash&label=Profile%20views&color=0e75b6&style=flat" alt="sonudash" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/bettercalldash" target="blank"><img src="https://img.shields.io/twitter/follow/bettercalldash?logo=twitter&style=for-the-badge" alt="bettercalldash" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning and continuosly upscaling in **Tech**
 
-- 💬 Ask me about **Python, Kubernetes, AWS, DSA**
+- 💬 Ask me about **GenAI, LLMs, Python, Kubernetes, AWS, DSA**
 
 - 📫 How to reach me **ayushmand560@gmail.com**
 
