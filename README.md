@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **ayushmand560@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1exgyZjNn6ESWx4nOXabTs0YDM-IxWn2I/edit?usp=sharing&ouid=102485587655874556694&rtpof=true&sd=true]
+- 📄 Know about my experiences https://docs.google.com/document/d/1exgyZjNn6ESWx4nOXabTs0YDM-IxWn2I/edit?usp=sharing&ouid=102485587655874556694&rtpof=true&sd=true
 
 - ⚡ Fun fact **Time is relative (have u tried zoning into a task)**
 
