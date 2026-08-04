@@ -6,9 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/bettercalldash" target="blank"><img src="https://img.shields.io/twitter/follow/bettercalldash?logo=twitter&style=for-the-badge" alt="bettercalldash" /></a> </p>
 
-- 🌱 I’m currently learning and continuosly upscaling in **Tech**
-
-- 💬 Ask me about **GenAI, LLMs, Python, Kubernetes, AWS, DSA**
 
 - 📫 How to reach me **ayushmand560@gmail.com**
 
